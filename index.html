@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+
+        <link rel="stylesheet" href="estilos.css" type="text/css" >     
+		<meta charset="UTF-8">
+		<meta name="author" content="Patrícia Freitas">  
+        <link rel="shortcut icon" type="image/x-icon"  href="imagens/icon.ico"/> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>   
+
+    </head>
+    <body>
+        <!-- Menu -->
+        <nav> 
+            <ul class="toggle"></ul>
+            <ul class="menu">
+                <li><a href="index.html"> Home </a></li>
+                <li><a href="sobre.1.html"> Sobre mim </a>
+                <li><a href="portfolio.html"> Portfólio </a>
+                <li><a href="contatos.html"> Contatos </a></li>  
+            </ul>     
+        </nav>
+            
+        <!-- CONTEUDO -->
+        <main>
+            <div class="name">
+            
+                <h1> <font color="#f6ac00">Patrícia</font> Freitas,</h1>
+                <p class="details" style="font-size: 22px;"> Design Gráfico, Design Editorial e Design UX   </p>
+                <br>
+                <button class="btn1" ><a href="sobre.1.html" style="color: rgb(0, 0, 0);"> Sabre mais </a></button>
+                <button class="btn2" ><a href="Curriculum.pdf" style="color: white;"> Download Cv </a></button>
+                
+                
+                <script>
+                    function download() {
+                        var iframe = document.getElementById('invisible');
+                        iframe.src = "capa.png";
+                    }
+                </script>
+                <button class="btn2" id="invisible" style="display:none;"></button>
+                
+                <br>
+                <br>
+                <br>
+            </div> 
+
+            <div class="foto.home">
+                <img alt="model" src="3.png" 
+                
+                style=" height: 669px;
+                position: absolute;
+                bottom: 0px;
+                left: 73%;
+                transform: translateX(-70%);"/>	
+            </div>
+        </main>
+    </body>
+</html>

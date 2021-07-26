@@ -1,0 +1,148 @@
+
+
+            <section id="portfolio">
+                <h1 class="texto-portfolio">Portfolio</h1>
+                <div class="p-container">
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Pôr do Mel </a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/mel-cartaz.jpg">
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-mel.jpg">
+                    </div>
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Fruta</a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/mel-cartz.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-mel.jpg" > 
+                    </div>
+
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Revista </a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/revista.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-revista.jpg" >
+                    </div>   
+
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Antes Que Te Queimes Covilhã </a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/cardenciais-cartaz.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-cardencial.jpg" >
+                    </div>
+
+                    
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Drone </a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/drone-cartaz.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-drone.jpg" >
+                    </div>
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Cartaz</a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/cartaz.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-cartaz.jpg" >
+                    </div>
+
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Cartão de Visita</a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/capa-cartao.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-cartao.jpg" >
+                    </div>
+
+                    
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Video publicitário</a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/video.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-video.jpg" >
+                    </div>
+
+
+                    <div class="p-box">
+                        <div class="overlay-text">
+                            <a href="#abrirModal" style="font-family: calibri; font-size: 1.7rem;color: white;">Planta Carnivora</a>
+                            <div id="abrirModal" class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;" > 
+                                <div>
+                                   <style> { overflow: auto}</style>
+                                <a href="#fechar" title="Fechar" class="fechar">x</a>
+                                <img src="imagens/carnivora.jpg" >
+                               	
+                                </div>
+                            </div>
+                        </div>
+                        <img src="imagens/capa-carnivora.jpg" >
+                    </div>
+                </div>
+             </section>
